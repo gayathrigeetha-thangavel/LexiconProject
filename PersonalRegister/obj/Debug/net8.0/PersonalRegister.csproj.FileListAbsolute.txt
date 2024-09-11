@@ -1,0 +1,14 @@
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.AssemblyInfoInputs.cache
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.AssemblyInfo.cs
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.csproj.CoreCompileInputs.cache
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/bin/Debug/net8.0/PersonalRegister
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/bin/Debug/net8.0/PersonalRegister.deps.json
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/bin/Debug/net8.0/PersonalRegister.runtimeconfig.json
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/bin/Debug/net8.0/PersonalRegister.dll
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/bin/Debug/net8.0/PersonalRegister.pdb
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.dll
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/refint/PersonalRegister.dll
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.pdb
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/PersonalRegister.genruntimeconfig.cache
+/Users/gayathrigeetha/Lexicon-Training/projects/PersonalRegister/obj/Debug/net8.0/ref/PersonalRegister.dll
